@@ -1,6 +1,6 @@
 {
-  "version": "269978c7d9f5",
-  "actualizado": "21/11/2026 13:52",
+  "version": "0f72757901e6",
+  "actualizado": "21/11/2026 14:47",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -222,7 +222,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "21/11/2026 13:52",
+    "actualizado": "21/11/2026 14:47",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -921,23 +921,23 @@
           {
             "pos": "1",
             "equipo": "F. Cajasol Andalucía Verde",
-            "pts": "15",
-            "pj": "5",
-            "pg": "5",
+            "pts": "18",
+            "pj": "6",
+            "pg": "6",
             "pp": "0",
-            "sf": "15",
-            "sc": "0",
+            "sf": "18",
+            "sc": "1",
             "club": false
           },
           {
             "pos": "2",
             "equipo": "Ceu San Pablo A",
             "pts": "14",
-            "pj": "5",
+            "pj": "6",
             "pg": "5",
-            "pp": "0",
-            "sf": "15",
-            "sc": "2",
+            "pp": "1",
+            "sf": "16",
+            "sc": "5",
             "club": false
           },
           {
