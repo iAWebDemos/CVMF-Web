@@ -1,6 +1,6 @@
 {
-  "version": "bd63452b3dfe",
-  "actualizado": "21/11/2026 16:57",
+  "version": "5b0b34b9aa86",
+  "actualizado": "21/11/2026 17:47",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -221,7 +221,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "21/11/2026 16:57",
+    "actualizado": "21/11/2026 17:47",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -752,6 +752,17 @@
         "clasificacion": [
           {
             "pos": "1",
+            "equipo": "Kairós",
+            "pts": "16",
+            "pj": "6",
+            "pg": "5",
+            "pp": "1",
+            "sf": "17",
+            "sc": "3",
+            "club": false
+          },
+          {
+            "pos": "2",
             "equipo": "CV Alcores",
             "pts": "14",
             "pj": "6",
@@ -759,17 +770,6 @@
             "pp": "1",
             "sf": "16",
             "sc": "6",
-            "club": false
-          },
-          {
-            "pos": "2",
-            "equipo": "Kairós",
-            "pts": "13",
-            "pj": "5",
-            "pg": "4",
-            "pp": "1",
-            "sf": "14",
-            "sc": "3",
             "club": false
           },
           {
@@ -842,11 +842,11 @@
             "pos": "9",
             "equipo": "Fundación Cajasol Andalucía",
             "pts": "0",
-            "pj": "6",
+            "pj": "7",
             "pg": "0",
-            "pp": "6",
+            "pp": "7",
             "sf": "1",
-            "sc": "18",
+            "sc": "21",
             "club": false
           }
         ],
