@@ -1,6 +1,6 @@
 {
-  "version": "5b0b34b9aa86",
-  "actualizado": "21/11/2026 17:47",
+  "version": "2a591bdf71b8",
+  "actualizado": "21/11/2026 18:47",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -221,7 +221,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "21/11/2026 17:47",
+    "actualizado": "21/11/2026 18:47",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -321,12 +321,12 @@
           {
             "pos": "9",
             "equipo": "Cva. Cadiz Ad Team Formaciones",
-            "pts": "6",
-            "pj": "7",
+            "pts": "7",
+            "pj": "8",
             "pg": "2",
-            "pp": "5",
-            "sf": "11",
-            "sc": "19",
+            "pp": "6",
+            "sf": "13",
+            "sc": "22",
             "club": false
           },
           {
@@ -343,12 +343,12 @@
           {
             "pos": "11",
             "equipo": "Uda Benalmadena",
-            "pts": "4",
-            "pj": "7",
-            "pg": "1",
+            "pts": "6",
+            "pj": "8",
+            "pg": "2",
             "pp": "6",
-            "sf": "8",
-            "sc": "19",
+            "sf": "11",
+            "sc": "21",
             "club": false
           },
           {
