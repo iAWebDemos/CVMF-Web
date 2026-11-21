@@ -1,6 +1,6 @@
 {
-  "version": "e9c8a130af3c",
-  "actualizado": "21/11/2026 12:37",
+  "version": "269978c7d9f5",
+  "actualizado": "21/11/2026 13:52",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -222,7 +222,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "21/11/2026 12:37",
+    "actualizado": "21/11/2026 13:52",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -954,11 +954,11 @@
           {
             "pos": "4",
             "equipo": "Cash El Barato Villaverde",
-            "pts": "9",
-            "pj": "5",
-            "pg": "3",
+            "pts": "12",
+            "pj": "6",
+            "pg": "4",
             "pp": "2",
-            "sf": "10",
+            "sf": "13",
             "sc": "6",
             "club": false
           },
@@ -977,11 +977,11 @@
             "pos": "6",
             "equipo": "Encinas Volley C.D.",
             "pts": "5",
-            "pj": "5",
+            "pj": "6",
             "pg": "2",
-            "pp": "3",
+            "pp": "4",
             "sf": "6",
-            "sc": "11",
+            "sc": "14",
             "club": false
           },
           {
