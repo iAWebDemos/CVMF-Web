@@ -1,6 +1,6 @@
 {
-  "version": "19d145fb0645",
-  "actualizado": "21/11/2026 16:52",
+  "version": "bd63452b3dfe",
+  "actualizado": "21/11/2026 16:57",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -221,7 +221,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "21/11/2026 16:52",
+    "actualizado": "21/11/2026 16:57",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -1144,23 +1144,23 @@
           {
             "pos": "7",
             "equipo": "F. Cajasol Andalucia Negro",
-            "pts": "3",
-            "pj": "5",
+            "pts": "4",
+            "pj": "6",
             "pg": "1",
-            "pp": "4",
-            "sf": "4",
-            "sc": "13",
+            "pp": "5",
+            "sf": "6",
+            "sc": "16",
             "club": false
           },
           {
             "pos": "8",
             "equipo": "Golden Team",
-            "pts": "0",
-            "pj": "5",
-            "pg": "0",
+            "pts": "2",
+            "pj": "6",
+            "pg": "1",
             "pp": "5",
-            "sf": "1",
-            "sc": "15",
+            "sf": "4",
+            "sc": "17",
             "club": false
           }
         ],
