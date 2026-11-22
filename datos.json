@@ -1,6 +1,6 @@
 {
-  "version": "bd1527679fe5",
-  "actualizado": "22/11/2026 13:37",
+  "version": "19bae36f0282",
+  "actualizado": "22/11/2026 15:47",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -219,7 +219,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "22/11/2026 13:37",
+    "actualizado": "22/11/2026 15:47",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -286,12 +286,12 @@
           {
             "pos": "6",
             "equipo": "Al-Bayyana Roquetas",
-            "pts": "12",
-            "pj": "7",
-            "pg": "4",
+            "pts": "14",
+            "pj": "8",
+            "pg": "5",
             "pp": "3",
-            "sf": "16",
-            "sc": "12",
+            "sf": "19",
+            "sc": "14",
             "club": false
           },
           {
@@ -352,12 +352,12 @@
           {
             "pos": "12",
             "equipo": "Granavoley",
-            "pts": "2",
-            "pj": "7",
+            "pts": "3",
+            "pj": "8",
             "pg": "0",
-            "pp": "7",
-            "sf": "6",
-            "sc": "21",
+            "pp": "8",
+            "sf": "8",
+            "sc": "24",
             "club": false
           },
           {
