@@ -1,10 +1,21 @@
 {
-  "version": "19bae36f0282",
-  "actualizado": "22/11/2026 15:47",
+  "version": "979f139947e0",
+  "actualizado": "22/11/2026 19:32",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
     "eventos": [
+      {
+        "evento": "CV Manuel de Falla – Mairena Voley Club",
+        "categoria": "Juvenil",
+        "competicion": "Juvenil masculino Sevilla Liga Provincial · Jornada 7",
+        "fecha": "28/11/2026 · 11:00",
+        "marcador": "",
+        "estado": "next",
+        "youtube": "",
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1322&vista=calendario&grupo=90&fase=114",
+        "sede": "Complejo Polideportivo Raúl Fernández Pavón (Brenes)"
+      },
       {
         "evento": "Grimaret CVMF Brenes – Palestra C.V.",
         "categoria": "Sénior primera",
@@ -14,6 +25,17 @@
         "estado": "next",
         "youtube": "",
         "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1368&vista=calendario&grupo=12&fase=13",
+        "sede": "Complejo Polideportivo Raúl Fernández Pavón (Brenes)"
+      },
+      {
+        "evento": "CV Manuel de Falla – Mairena Voley Club-Mairena Alj",
+        "categoria": "Cadete",
+        "competicion": "Cadete masculino Sevilla Liga Provincial · Jornada 8",
+        "fecha": "29/11/2026 · 12:00",
+        "marcador": "",
+        "estado": "next",
+        "youtube": "",
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1314&vista=calendario&grupo=91&fase=115",
         "sede": "Complejo Polideportivo Raúl Fernández Pavón (Brenes)"
       },
       {
@@ -35,26 +57,6 @@
         "estado": "next",
         "youtube": "",
         "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1329&vista=calendario&grupo=119&fase=165"
-      },
-      {
-        "evento": "CV Manuel de Falla – Mairena Voley Club",
-        "categoria": "Juvenil",
-        "competicion": "Juvenil masculino Sevilla Liga Provincial · Jornada 7",
-        "fecha": "Por confirmar",
-        "marcador": "",
-        "estado": "next",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1322&vista=calendario&grupo=90&fase=114"
-      },
-      {
-        "evento": "CV Manuel de Falla – Mairena Voley Club-Mairena Alj",
-        "categoria": "Cadete",
-        "competicion": "Cadete masculino Sevilla Liga Provincial · Jornada 8",
-        "fecha": "Por confirmar",
-        "marcador": "",
-        "estado": "next",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1314&vista=calendario&grupo=91&fase=115"
       },
       {
         "evento": "CV Utrera – Mgs Seguros CVMF Brenes",
@@ -219,7 +221,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "22/11/2026 15:47",
+    "actualizado": "22/11/2026 19:32",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -556,22 +558,24 @@
           "evento": "CV Manuel de Falla – Mairena Voley Club",
           "categoria": "Juvenil",
           "competicion": "Juvenil masculino Sevilla Liga Provincial · Jornada 7",
-          "fecha": "Por confirmar",
+          "fecha": "28/11/2026 · 11:00",
           "marcador": "",
           "estado": "next",
           "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1322&vista=calendario&grupo=90&fase=114"
+          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1322&vista=calendario&grupo=90&fase=114",
+          "sede": "Complejo Polideportivo Raúl Fernández Pavón (Brenes)"
         },
         "proximos": [
           {
             "evento": "CV Manuel de Falla – Mairena Voley Club",
             "categoria": "Juvenil",
             "competicion": "Juvenil masculino Sevilla Liga Provincial · Jornada 7",
-            "fecha": "Por confirmar",
+            "fecha": "28/11/2026 · 11:00",
             "marcador": "",
             "estado": "next",
             "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1322&vista=calendario&grupo=90&fase=114"
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1322&vista=calendario&grupo=90&fase=114",
+            "sede": "Complejo Polideportivo Raúl Fernández Pavón (Brenes)"
           },
           {
             "evento": "Mairena Voley Club – CV Manuel de Falla",
@@ -852,22 +856,24 @@
           "evento": "CV Manuel de Falla – Mairena Voley Club-Mairena Alj",
           "categoria": "Cadete",
           "competicion": "Cadete masculino Sevilla Liga Provincial · Jornada 8",
-          "fecha": "Por confirmar",
+          "fecha": "29/11/2026 · 12:00",
           "marcador": "",
           "estado": "next",
           "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1314&vista=calendario&grupo=91&fase=115"
+          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1314&vista=calendario&grupo=91&fase=115",
+          "sede": "Complejo Polideportivo Raúl Fernández Pavón (Brenes)"
         },
         "proximos": [
           {
             "evento": "CV Manuel de Falla – Mairena Voley Club-Mairena Alj",
             "categoria": "Cadete",
             "competicion": "Cadete masculino Sevilla Liga Provincial · Jornada 8",
-            "fecha": "Por confirmar",
+            "fecha": "29/11/2026 · 12:00",
             "marcador": "",
             "estado": "next",
             "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1314&vista=calendario&grupo=91&fase=115"
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1314&vista=calendario&grupo=91&fase=115",
+            "sede": "Complejo Polideportivo Raúl Fernández Pavón (Brenes)"
           },
           {
             "evento": "C.D. Adriano – CV Manuel de Falla",
