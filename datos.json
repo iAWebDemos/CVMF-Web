@@ -1,10 +1,21 @@
 {
-  "version": "979f139947e0",
-  "actualizado": "22/11/2026 19:32",
+  "version": "b571d0619d9e",
+  "actualizado": "22/11/2026 20:37",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
     "eventos": [
+      {
+        "evento": "Cva S – CVMF Brenes Azul",
+        "categoria": "Infantil",
+        "competicion": "Infantil femenino Sevilla Liga Provincial · Jornada 8",
+        "fecha": "28/11/2026 · 09:30",
+        "marcador": "",
+        "estado": "next",
+        "youtube": "",
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68",
+        "sede": "Pabellon Placido Fernandez Viagas (Alcalá de Guadaíra)"
+      },
       {
         "evento": "CV Manuel de Falla – Mairena Voley Club",
         "categoria": "Juvenil",
@@ -77,16 +88,6 @@
         "estado": "next",
         "youtube": "",
         "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228"
-      },
-      {
-        "evento": "Cva S – CVMF Brenes Azul",
-        "categoria": "Infantil",
-        "competicion": "Infantil femenino Sevilla Liga Provincial · Jornada 8",
-        "fecha": "Por confirmar",
-        "marcador": "",
-        "estado": "next",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68"
       },
       {
         "evento": "F. Cajasol Andalucía Azul – CVMF Brenes Azul",
@@ -221,7 +222,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "22/11/2026 19:32",
+    "actualizado": "22/11/2026 20:37",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -1170,22 +1171,24 @@
           "evento": "Cva S – CVMF Brenes Azul",
           "categoria": "Infantil",
           "competicion": "Infantil femenino Sevilla Liga Provincial · Jornada 8",
-          "fecha": "Por confirmar",
+          "fecha": "28/11/2026 · 09:30",
           "marcador": "",
           "estado": "next",
           "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68"
+          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68",
+          "sede": "Pabellon Placido Fernandez Viagas (Alcalá de Guadaíra)"
         },
         "proximos": [
           {
             "evento": "Cva S – CVMF Brenes Azul",
             "categoria": "Infantil",
             "competicion": "Infantil femenino Sevilla Liga Provincial · Jornada 8",
-            "fecha": "Por confirmar",
+            "fecha": "28/11/2026 · 09:30",
             "marcador": "",
             "estado": "next",
             "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68"
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68",
+            "sede": "Pabellon Placido Fernandez Viagas (Alcalá de Guadaíra)"
           },
           {
             "evento": "CVMF Brenes Azul – Edm Voleibol Tomares",
