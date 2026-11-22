@@ -1,6 +1,6 @@
 {
-  "version": "7f3d26aff2d2",
-  "actualizado": "22/11/2026 12:17",
+  "version": "156006f1d318",
+  "actualizado": "22/11/2026 12:22",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -221,7 +221,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "22/11/2026 12:17",
+    "actualizado": "22/11/2026 12:22",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -1668,16 +1668,27 @@
           {
             "pos": "3",
             "equipo": "Ceu San Pablo A",
-            "pts": "4",
-            "pj": "2",
+            "pts": "5",
+            "pj": "3",
             "pg": "2",
-            "pp": "0",
-            "sf": "4",
-            "sc": "1",
+            "pp": "1",
+            "sf": "5",
+            "sc": "3",
             "club": false
           },
           {
             "pos": "4",
+            "equipo": "Maristas V Club Deportivo",
+            "pts": "5",
+            "pj": "3",
+            "pg": "2",
+            "pp": "1",
+            "sf": "4",
+            "sc": "4",
+            "club": false
+          },
+          {
+            "pos": "5",
             "equipo": "CV Alcores",
             "pts": "3",
             "pj": "2",
@@ -1685,17 +1696,6 @@
             "pp": "1",
             "sf": "3",
             "sc": "2",
-            "club": false
-          },
-          {
-            "pos": "5",
-            "equipo": "Maristas V Club Deportivo",
-            "pts": "3",
-            "pj": "2",
-            "pg": "1",
-            "pp": "1",
-            "sf": "2",
-            "sc": "3",
             "club": false
           },
           {
