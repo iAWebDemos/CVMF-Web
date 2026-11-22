@@ -1,6 +1,6 @@
 {
-  "version": "3430ea4c0804",
-  "actualizado": "22/11/2026 21:02",
+  "version": "9298b4b01559",
+  "actualizado": "22/11/2026 21:07",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -224,7 +224,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "22/11/2026 21:02",
+    "actualizado": "22/11/2026 21:07",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -1626,7 +1626,7 @@
             "evento": "CVMF Brenes Blanco – CV Puebla del Rio",
             "categoria": "Alevín",
             "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 4",
-            "fecha": "Por confirmar",
+            "fecha": "29/11/2026 · 10:50",
             "marcador": "",
             "estado": "next",
             "youtube": "",
