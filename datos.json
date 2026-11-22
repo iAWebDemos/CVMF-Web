@@ -1,6 +1,6 @@
 {
-  "version": "e065c3391984",
-  "actualizado": "22/11/2026 13:22",
+  "version": "5d3c6f0730eb",
+  "actualizado": "22/11/2026 13:27",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -220,7 +220,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "22/11/2026 13:22",
+    "actualizado": "22/11/2026 13:27",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -1653,6 +1653,17 @@
           },
           {
             "pos": "2",
+            "equipo": "Ceu San Pablo A",
+            "pts": "7",
+            "pj": "4",
+            "pg": "3",
+            "pp": "1",
+            "sf": "7",
+            "sc": "3",
+            "club": false
+          },
+          {
+            "pos": "3",
             "equipo": "Clinica Villadent",
             "pts": "6",
             "pj": "3",
@@ -1663,7 +1674,7 @@
             "club": false
           },
           {
-            "pos": "3",
+            "pos": "4",
             "equipo": "CD Colegio Claret A",
             "pts": "6",
             "pj": "3",
@@ -1671,17 +1682,6 @@
             "pp": "0",
             "sf": "6",
             "sc": "0",
-            "club": false
-          },
-          {
-            "pos": "4",
-            "equipo": "Ceu San Pablo A",
-            "pts": "5",
-            "pj": "3",
-            "pg": "2",
-            "pp": "1",
-            "sf": "5",
-            "sc": "3",
             "club": false
           },
           {
@@ -1697,7 +1697,7 @@
           },
           {
             "pos": "6",
-            "equipo": "C.V. Xtrem Espartinas",
+            "equipo": "Mairena Voley Club",
             "pts": "4",
             "pj": "4",
             "pg": "0",
@@ -1708,6 +1708,17 @@
           },
           {
             "pos": "7",
+            "equipo": "C.V. Xtrem Espartinas",
+            "pts": "4",
+            "pj": "4",
+            "pg": "0",
+            "pp": "4",
+            "sf": "0",
+            "sc": "8",
+            "club": false
+          },
+          {
+            "pos": "8",
             "equipo": "Renault Hinojosa Márquez CVMF",
             "pts": "3",
             "pj": "3",
@@ -1716,17 +1727,6 @@
             "sf": "2",
             "sc": "6",
             "club": true
-          },
-          {
-            "pos": "8",
-            "equipo": "Mairena Voley Club",
-            "pts": "3",
-            "pj": "3",
-            "pg": "0",
-            "pp": "3",
-            "sf": "0",
-            "sc": "6",
-            "club": false
           }
         ],
         "proximo": {
