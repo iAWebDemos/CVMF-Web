@@ -1,6 +1,6 @@
 {
-  "version": "ad4ad5ac8365",
-  "actualizado": "22/11/2026 12:57",
+  "version": "7586aa12ba89",
+  "actualizado": "22/11/2026 13:07",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -220,7 +220,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "22/11/2026 12:57",
+    "actualizado": "22/11/2026 13:07",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -243,23 +243,23 @@
           {
             "pos": "2",
             "equipo": "Costa del Voley",
-            "pts": "16",
-            "pj": "7",
-            "pg": "6",
+            "pts": "19",
+            "pj": "8",
+            "pg": "7",
             "pp": "1",
-            "sf": "18",
-            "sc": "8",
+            "sf": "21",
+            "sc": "9",
             "club": false
           },
           {
             "pos": "3",
             "equipo": "Palestra C.V.",
             "pts": "16",
-            "pj": "7",
+            "pj": "8",
             "pg": "5",
-            "pp": "2",
-            "sf": "17",
-            "sc": "9",
+            "pp": "3",
+            "sf": "18",
+            "sc": "12",
             "club": false
           },
           {
