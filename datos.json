@@ -1,6 +1,6 @@
 {
-  "version": "b71749cceb99",
-  "actualizado": "22/11/2026 20:57",
+  "version": "3430ea4c0804",
+  "actualizado": "22/11/2026 21:02",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -37,6 +37,17 @@
         "youtube": "",
         "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1368&vista=calendario&grupo=12&fase=13",
         "sede": "Complejo Polideportivo Raúl Fernández Pavón (Brenes)"
+      },
+      {
+        "evento": "CVMF Brenes Blanco – Oil'24. Descubre Fuentes",
+        "categoria": "Alevín",
+        "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
+        "fecha": "29/11/2026 · 09:45",
+        "marcador": "",
+        "estado": "next",
+        "youtube": "",
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228",
+        "sede": "Pabellón Cubierto Enrique Lora · P2 (La Puebla del Río)"
       },
       {
         "evento": "CV Manuel de Falla – Mairena Voley Club-Mairena Alj",
@@ -89,16 +100,6 @@
         "estado": "next",
         "youtube": "",
         "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
-      },
-      {
-        "evento": "CVMF Brenes Blanco – Oil'24. Descubre Fuentes",
-        "categoria": "Alevín",
-        "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-        "fecha": "Por confirmar",
-        "marcador": "",
-        "estado": "next",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228"
       },
       {
         "evento": "Renault Hinojosa Márquez CVMF – C.V. Xtrem Espartinas",
@@ -223,7 +224,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "22/11/2026 20:57",
+    "actualizado": "22/11/2026 21:02",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -1602,22 +1603,24 @@
           "evento": "CVMF Brenes Blanco – Oil'24. Descubre Fuentes",
           "categoria": "Alevín",
           "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-          "fecha": "Por confirmar",
+          "fecha": "29/11/2026 · 09:45",
           "marcador": "",
           "estado": "next",
           "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228"
+          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228",
+          "sede": "Pabellón Cubierto Enrique Lora · P2 (La Puebla del Río)"
         },
         "proximos": [
           {
             "evento": "CVMF Brenes Blanco – Oil'24. Descubre Fuentes",
             "categoria": "Alevín",
             "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-            "fecha": "Por confirmar",
+            "fecha": "29/11/2026 · 09:45",
             "marcador": "",
             "estado": "next",
             "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228"
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228",
+            "sede": "Pabellón Cubierto Enrique Lora · P2 (La Puebla del Río)"
           },
           {
             "evento": "CVMF Brenes Blanco – CV Puebla del Rio",
