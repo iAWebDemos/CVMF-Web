@@ -1,20 +1,10 @@
 {
-  "version": "f45f9508ec3b",
-  "actualizado": "23/11/2026 12:41",
+  "version": "9aea4d9a926f",
+  "actualizado": "23/11/2026 12:46",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
     "eventos": [
-      {
-        "evento": "F. Cajasol Andalucía Azul – CVMF Brenes Azul",
-        "categoria": "Alevín",
-        "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-        "fecha": "29/11/2026 · 13:00",
-        "marcador": "",
-        "estado": "next",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227"
-      },
       {
         "evento": "CV Utrera – Mgs Seguros CVMF Brenes",
         "categoria": "Alevín",
@@ -34,21 +24,11 @@
         "estado": "final",
         "youtube": "",
         "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
-      },
-      {
-        "evento": "CVMF Brenes Azul – Encinas Volley C.D.",
-        "categoria": "Alevín",
-        "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 2",
-        "fecha": "15/11/2026 · 13:00",
-        "marcador": "1–2",
-        "estado": "final",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227"
       }
     ]
   },
   "equipos": {
-    "actualizado": "23/11/2026 12:41",
+    "actualizado": "23/11/2026 12:46",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -132,58 +112,6 @@
             "evento": "Mairena Voley Club – Mgs Seguros CVMF Brenes",
             "fecha": "15/11/2026 · 11:05",
             "marcador": "0–2"
-          }
-        ]
-      },
-      {
-        "categoria": "Alevín",
-        "genero": "Femenino",
-        "variante": "Femenino azul",
-        "nombre": "CVMF Brenes Azul",
-        "competicion": "Alevin femenino Sevilla Liga Provincial",
-        "clasificacion": [],
-        "proximo": {
-          "evento": "CV Utrera – CVMF Brenes Azul",
-          "categoria": "Alevín",
-          "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 4",
-          "fecha": "29/11/2026 · 11:55",
-          "marcador": "",
-          "estado": "next",
-          "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227"
-        },
-        "proximos": [
-          {
-            "evento": "CV Utrera – CVMF Brenes Azul",
-            "categoria": "Alevín",
-            "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 4",
-            "fecha": "29/11/2026 · 11:55",
-            "marcador": "",
-            "estado": "next",
-            "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227"
-          },
-          {
-            "evento": "F. Cajasol Andalucía Azul – CVMF Brenes Azul",
-            "categoria": "Alevín",
-            "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-            "fecha": "29/11/2026 · 13:00",
-            "marcador": "",
-            "estado": "next",
-            "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227"
-          }
-        ],
-        "resultados": [
-          {
-            "evento": "CVMF Brenes Azul – Encinas Volley C.D.",
-            "fecha": "15/11/2026 · 13:00",
-            "marcador": "1–2"
-          },
-          {
-            "evento": "Kairós Turquesa – CVMF Brenes Azul",
-            "fecha": "15/11/2026 · 11:55",
-            "marcador": "2–1"
           }
         ]
       },
