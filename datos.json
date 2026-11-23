@@ -1,10 +1,20 @@
 {
-  "version": "9aea4d9a926f",
-  "actualizado": "23/11/2026 17:11",
+  "version": "e4d2d320e5c6",
+  "actualizado": "23/11/2026 17:16",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
     "eventos": [
+      {
+        "evento": "CD Dxt10 – CV Manuel de Falla",
+        "categoria": "Juvenil",
+        "competicion": "Juvenil femenino Sevilla Liga Provincial · Jornada 5",
+        "fecha": "29/11/2026 · 12:30",
+        "marcador": "",
+        "estado": "next",
+        "youtube": "",
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1329&vista=calendario&grupo=119&fase=165"
+      },
       {
         "evento": "CV Utrera – Mgs Seguros CVMF Brenes",
         "categoria": "Alevín",
@@ -24,11 +34,21 @@
         "estado": "final",
         "youtube": "",
         "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
+      },
+      {
+        "evento": "CV Manuel de Falla – Kairós",
+        "categoria": "Juvenil",
+        "competicion": "Juvenil femenino Sevilla Liga Provincial · Jornada 4",
+        "fecha": "21/11/2026 · 12:00",
+        "marcador": "1–3",
+        "estado": "final",
+        "youtube": "",
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1329&vista=calendario&grupo=119&fase=165"
       }
     ]
   },
   "equipos": {
-    "actualizado": "23/11/2026 17:11",
+    "actualizado": "23/11/2026 17:16",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -51,6 +71,68 @@
         "proximo": null,
         "resultados": [],
         "sinCompeticion": "Este grupo figura en el horario del club, pero todavía no aparece en la FAV esta temporada."
+      },
+      {
+        "categoria": "Juvenil",
+        "genero": "Femenino",
+        "variante": "Femenino",
+        "nombre": "CV Manuel de Falla",
+        "competicion": "Juvenil femenino Sevilla Liga Provincial",
+        "clasificacion": [],
+        "proximo": {
+          "evento": "CD Dxt10 – CV Manuel de Falla",
+          "categoria": "Juvenil",
+          "competicion": "Juvenil femenino Sevilla Liga Provincial · Jornada 5",
+          "fecha": "29/11/2026 · 12:30",
+          "marcador": "",
+          "estado": "next",
+          "youtube": "",
+          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1329&vista=calendario&grupo=119&fase=165"
+        },
+        "proximos": [
+          {
+            "evento": "CD Dxt10 – CV Manuel de Falla",
+            "categoria": "Juvenil",
+            "competicion": "Juvenil femenino Sevilla Liga Provincial · Jornada 5",
+            "fecha": "29/11/2026 · 12:30",
+            "marcador": "",
+            "estado": "next",
+            "youtube": "",
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1329&vista=calendario&grupo=119&fase=165"
+          },
+          {
+            "evento": "CV Manuel de Falla – F. Cajasol Andalucía Azul",
+            "categoria": "Juvenil",
+            "competicion": "Juvenil femenino Sevilla Liga Provincial · Jornada 6",
+            "fecha": "Por confirmar",
+            "marcador": "",
+            "estado": "next",
+            "youtube": "",
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1329&vista=calendario&grupo=119&fase=165"
+          }
+        ],
+        "resultados": [
+          {
+            "evento": "CV Manuel de Falla – Kairós",
+            "fecha": "21/11/2026 · 12:00",
+            "marcador": "1–3"
+          },
+          {
+            "evento": "CV Manuel de Falla – Las Leonas",
+            "fecha": "14/11/2026 · 20:00",
+            "marcador": "3–1"
+          },
+          {
+            "evento": "Sitting Volley Sevilla – CV Manuel de Falla",
+            "fecha": "08/11/2026 · 12:30",
+            "marcador": "3–2"
+          },
+          {
+            "evento": "F. Cajasol Andalucía Azul – CV Manuel de Falla",
+            "fecha": "24/10/2026 · 18:00",
+            "marcador": "0–3"
+          }
+        ]
       },
       {
         "categoria": "Infantil",
