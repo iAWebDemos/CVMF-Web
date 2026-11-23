@@ -1,6 +1,6 @@
 {
-  "version": "02109d597c0e",
-  "actualizado": "23/11/2026 01:37",
+  "version": "46b8641759c4",
+  "actualizado": "23/11/2026 01:42",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -53,8 +53,7 @@
         "marcador": "2–0",
         "estado": "final",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228",
-        "sede": "Pabellon La Estacion · P3 (Fuentes de Andalucía)"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228"
       },
       {
         "evento": "Mgs Seguros CVMF Brenes – Sitting Volley Sevilla",
@@ -74,8 +73,7 @@
         "marcador": "1–2",
         "estado": "final",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227",
-        "sede": "Pabellon La Estacion · P3 (Fuentes de Andalucía)"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227"
       },
       {
         "evento": "CV Manuel de Falla – Kairós",
@@ -91,7 +89,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "23/11/2026 01:37",
+    "actualizado": "23/11/2026 01:42",
     "equipos": [
       {
         "categoria": "Sénior",
