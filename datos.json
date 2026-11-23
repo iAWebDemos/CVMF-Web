@@ -1,6 +1,6 @@
 {
-  "version": "39f2c2d989e3",
-  "actualizado": "23/11/2026 18:02",
+  "version": "00a74a7c7782",
+  "actualizado": "23/11/2026 18:07",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -63,12 +63,13 @@
         "marcador": "1–3",
         "estado": "final",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1329&vista=calendario&grupo=119&fase=165"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1329&vista=calendario&grupo=119&fase=165",
+        "sede": "Complejo Polideportivo Raúl Fernández Pavón (Brenes)"
       }
     ]
   },
   "equipos": {
-    "actualizado": "23/11/2026 18:02",
+    "actualizado": "23/11/2026 18:07",
     "equipos": [
       {
         "categoria": "Sénior",
