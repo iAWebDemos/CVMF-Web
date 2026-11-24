@@ -1,6 +1,6 @@
 {
-  "version": "374af8b7d353",
-  "actualizado": "24/11/2026 05:58",
+  "version": "4317a09e86c8",
+  "actualizado": "24/11/2026 06:02",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -13,17 +13,8 @@
         "marcador": "",
         "estado": "next",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68"
-      },
-      {
-        "evento": "Grimaret CVMF Brenes – Palestra C.V.",
-        "categoria": "Sénior primera",
-        "competicion": "Primera Division Andaluza Masculina · Jornada 9",
-        "fecha": "28/11/2026 · 17:00",
-        "marcador": "",
-        "estado": "next",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1368&vista=calendario&grupo=12&fase=13"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68",
+        "sede": "Pabellon Placido Fernandez Viagas (Alcalá de Guadaíra)"
       },
       {
         "evento": "Las Flores Sevilla Amarillo – CVMF Brenes Azul",
@@ -33,223 +24,14 @@
         "marcador": "2–3",
         "estado": "final",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68"
-      },
-      {
-        "evento": "Union Malagueña – Grimaret CVMF Brenes",
-        "categoria": "Sénior primera",
-        "competicion": "Primera Division Andaluza Masculina · Jornada 8",
-        "fecha": "21/11/2026 · 18:30",
-        "marcador": "3–1",
-        "estado": "final",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1368&vista=calendario&grupo=12&fase=13"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68",
+        "sede": "Centro Deportivo San Jeronimo - Sevilla"
       }
     ]
   },
   "equipos": {
-    "actualizado": "24/11/2026 05:58",
+    "actualizado": "24/11/2026 06:02",
     "equipos": [
-      {
-        "categoria": "Sénior",
-        "genero": "Masculino",
-        "variante": "Masculino",
-        "nombre": "Grimaret CVMF Brenes",
-        "competicion": "Primera Division Andaluza Masculina",
-        "clasificacion": [
-          {
-            "pos": "1",
-            "equipo": "C.V. Hpr Los Palacios",
-            "pts": "22",
-            "pj": "8",
-            "pg": "8",
-            "pp": "0",
-            "sf": "24",
-            "sc": "6",
-            "club": false
-          },
-          {
-            "pos": "2",
-            "equipo": "Costa del Voley",
-            "pts": "19",
-            "pj": "8",
-            "pg": "7",
-            "pp": "1",
-            "sf": "21",
-            "sc": "9",
-            "club": false
-          },
-          {
-            "pos": "3",
-            "equipo": "CV Jerez Verinsur",
-            "pts": "18",
-            "pj": "9",
-            "pg": "6",
-            "pp": "3",
-            "sf": "20",
-            "sc": "14",
-            "club": false
-          },
-          {
-            "pos": "4",
-            "equipo": "Palestra C.V.",
-            "pts": "16",
-            "pj": "8",
-            "pg": "5",
-            "pp": "3",
-            "sf": "18",
-            "sc": "12",
-            "club": false
-          },
-          {
-            "pos": "5",
-            "equipo": "Demax Clinic. Descubre Fuentes",
-            "pts": "15",
-            "pj": "8",
-            "pg": "5",
-            "pp": "3",
-            "sf": "16",
-            "sc": "9",
-            "club": false
-          },
-          {
-            "pos": "6",
-            "equipo": "Al-Bayyana Roquetas",
-            "pts": "14",
-            "pj": "8",
-            "pg": "5",
-            "pp": "3",
-            "sf": "19",
-            "sc": "14",
-            "club": false
-          },
-          {
-            "pos": "7",
-            "equipo": "CD Otiñar Jaen",
-            "pts": "11",
-            "pj": "9",
-            "pg": "3",
-            "pp": "6",
-            "sf": "15",
-            "sc": "20",
-            "club": false
-          },
-          {
-            "pos": "8",
-            "equipo": "Union Malagueña",
-            "pts": "9",
-            "pj": "8",
-            "pg": "3",
-            "pp": "5",
-            "sf": "13",
-            "sc": "19",
-            "club": false
-          },
-          {
-            "pos": "9",
-            "equipo": "Grimaret CVMF Brenes",
-            "pts": "7",
-            "pj": "8",
-            "pg": "3",
-            "pp": "5",
-            "sf": "11",
-            "sc": "19",
-            "club": true
-          },
-          {
-            "pos": "10",
-            "equipo": "Cva. Cadiz Ad Team Formaciones",
-            "pts": "7",
-            "pj": "8",
-            "pg": "2",
-            "pp": "6",
-            "sf": "13",
-            "sc": "22",
-            "club": false
-          },
-          {
-            "pos": "11",
-            "equipo": "Uda Benalmadena",
-            "pts": "6",
-            "pj": "8",
-            "pg": "2",
-            "pp": "6",
-            "sf": "11",
-            "sc": "21",
-            "club": false
-          },
-          {
-            "pos": "12",
-            "equipo": "Granavoley",
-            "pts": "3",
-            "pj": "8",
-            "pg": "0",
-            "pp": "8",
-            "sf": "8",
-            "sc": "24",
-            "club": false
-          }
-        ],
-        "proximo": {
-          "evento": "Grimaret CVMF Brenes – Palestra C.V.",
-          "categoria": "Sénior primera",
-          "competicion": "Primera Division Andaluza Masculina · Jornada 9",
-          "fecha": "28/11/2026 · 17:00",
-          "marcador": "",
-          "estado": "next",
-          "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1368&vista=calendario&grupo=12&fase=13"
-        },
-        "proximos": [
-          {
-            "evento": "Grimaret CVMF Brenes – Palestra C.V.",
-            "categoria": "Sénior primera",
-            "competicion": "Primera Division Andaluza Masculina · Jornada 9",
-            "fecha": "28/11/2026 · 17:00",
-            "marcador": "",
-            "estado": "next",
-            "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1368&vista=calendario&grupo=12&fase=13"
-          },
-          {
-            "evento": "CD Otiñar Jaen – Grimaret CVMF Brenes",
-            "categoria": "Sénior primera",
-            "competicion": "Primera Division Andaluza Masculina · Jornada 10",
-            "fecha": "13/12/2026 · 12:00",
-            "marcador": "",
-            "estado": "next",
-            "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1368&vista=calendario&grupo=12&fase=13"
-          }
-        ],
-        "resultados": [
-          {
-            "evento": "Union Malagueña – Grimaret CVMF Brenes",
-            "fecha": "21/11/2026 · 18:30",
-            "marcador": "3–1"
-          },
-          {
-            "evento": "Grimaret CVMF Brenes – Granavoley",
-            "fecha": "14/11/2026 · 13:30",
-            "marcador": "3–0"
-          },
-          {
-            "evento": "Al-Bayyana Roquetas – Grimaret CVMF Brenes",
-            "fecha": "08/11/2026 · 13:00",
-            "marcador": "3–0"
-          },
-          {
-            "evento": "Costa del Voley – Grimaret CVMF Brenes",
-            "fecha": "31/10/2026 · 18:00",
-            "marcador": "3–0"
-          },
-          {
-            "evento": "Grimaret CVMF Brenes – CV Jerez Verinsur",
-            "fecha": "24/10/2026 · 17:00",
-            "marcador": "1–3"
-          }
-        ]
-      },
       {
         "categoria": "Sénior",
         "genero": "Femenino",
@@ -376,7 +158,8 @@
           "marcador": "",
           "estado": "next",
           "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68"
+          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68",
+          "sede": "Pabellon Placido Fernandez Viagas (Alcalá de Guadaíra)"
         },
         "proximos": [
           {
@@ -387,7 +170,8 @@
             "marcador": "",
             "estado": "next",
             "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68"
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1300&vista=calendario&grupo=24&fase=68",
+            "sede": "Pabellon Placido Fernandez Viagas (Alcalá de Guadaíra)"
           },
           {
             "evento": "CVMF Brenes Azul – Edm Voleibol Tomares",
