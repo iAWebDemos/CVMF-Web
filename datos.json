@@ -1,6 +1,6 @@
 {
-  "version": "5be22be58674",
-  "actualizado": "25/11/2026 17:57",
+  "version": "c84afef02ba4",
+  "actualizado": "25/11/2026 18:02",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -13,8 +13,7 @@
         "marcador": "",
         "estado": "next",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59",
-        "sede": "Centro Deportivo Alcosa (Sevilla)"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59"
       },
       {
         "evento": "CV Utrera – Mgs Seguros CVMF Brenes",
@@ -24,8 +23,7 @@
         "marcador": "",
         "estado": "next",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233",
-        "sede": "Pabellon Placido Fernandez Viagas · P1 (Alcalá de Guadaíra)"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
       },
       {
         "evento": "Mgs Seguros CVMF Brenes – Sitting Volley Sevilla",
@@ -52,7 +50,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "25/11/2026 17:57",
+    "actualizado": "25/11/2026 18:02",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -180,8 +178,7 @@
           "marcador": "",
           "estado": "next",
           "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59",
-          "sede": "Centro Deportivo Alcosa (Sevilla)"
+          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59"
         },
         "proximos": [
           {
@@ -192,8 +189,7 @@
             "marcador": "",
             "estado": "next",
             "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59",
-            "sede": "Centro Deportivo Alcosa (Sevilla)"
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59"
           },
           {
             "evento": "F. Cajasol Andalucía Verde – CV Manuel de Falla",
@@ -371,8 +367,7 @@
           "marcador": "",
           "estado": "next",
           "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233",
-          "sede": "Pabellon Placido Fernandez Viagas · P1 (Alcalá de Guadaíra)"
+          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
         },
         "proximos": [
           {
@@ -383,8 +378,7 @@
             "marcador": "",
             "estado": "next",
             "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233",
-            "sede": "Pabellon Placido Fernandez Viagas · P1 (Alcalá de Guadaíra)"
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
           },
           {
             "evento": "Mgs Seguros CVMF Brenes – CV Alcores",
