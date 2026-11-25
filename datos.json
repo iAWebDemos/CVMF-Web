@@ -1,6 +1,6 @@
 {
-  "version": "dc8d3d967007",
-  "actualizado": "25/11/2026 07:42",
+  "version": "3b6eabf9c651",
+  "actualizado": "25/11/2026 07:47",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -43,12 +43,13 @@
         "marcador": "3–0",
         "estado": "final",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1314&vista=calendario&grupo=91&fase=115"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1314&vista=calendario&grupo=91&fase=115",
+        "sede": "Pabellon Placido Fernandez Viagas · P1 (Alcalá de Guadaíra)"
       }
     ]
   },
   "equipos": {
-    "actualizado": "25/11/2026 07:42",
+    "actualizado": "25/11/2026 07:47",
     "equipos": [
       {
         "categoria": "Sénior",
