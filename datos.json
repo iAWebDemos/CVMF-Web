@@ -1,6 +1,6 @@
 {
-  "version": "06708f9bbe3a",
-  "actualizado": "25/11/2026 13:03",
+  "version": "21260107f0d3",
+  "actualizado": "25/11/2026 13:08",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -23,13 +23,12 @@
         "marcador": "2–0",
         "estado": "final",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233",
-        "sede": "I.E.S. Julio Verne · Central (Sevilla)"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
       }
     ]
   },
   "equipos": {
-    "actualizado": "25/11/2026 13:03",
+    "actualizado": "25/11/2026 13:08",
     "equipos": [
       {
         "categoria": "Sénior",
