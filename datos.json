@@ -1,6 +1,6 @@
 {
-  "version": "4808b2971d6e",
-  "actualizado": "25/11/2026 10:52",
+  "version": "77bc162e68db",
+  "actualizado": "25/11/2026 10:57",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -13,8 +13,7 @@
         "marcador": "",
         "estado": "next",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59",
-        "sede": "Centro Deportivo Alcosa (Sevilla)"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59"
       },
       {
         "evento": "CV Utrera – Mgs Seguros CVMF Brenes",
@@ -34,8 +33,7 @@
         "marcador": "2–0",
         "estado": "final",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233",
-        "sede": "I.E.S. Julio Verne · Central (Sevilla)"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
       },
       {
         "evento": "C.V. Hpr Los Palacios – CV Manuel de Falla",
@@ -51,7 +49,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "25/11/2026 10:52",
+    "actualizado": "25/11/2026 10:57",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -179,8 +177,7 @@
           "marcador": "",
           "estado": "next",
           "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59",
-          "sede": "Centro Deportivo Alcosa (Sevilla)"
+          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59"
         },
         "proximos": [
           {
@@ -191,8 +188,7 @@
             "marcador": "",
             "estado": "next",
             "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59",
-            "sede": "Centro Deportivo Alcosa (Sevilla)"
+            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59"
           },
           {
             "evento": "F. Cajasol Andalucía Verde – CV Manuel de Falla",
