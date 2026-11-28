@@ -1,6 +1,6 @@
 {
-  "version": "ab7d87c51338",
-  "actualizado": "28/11/2026 06:03",
+  "version": "0e51cf3fdf93",
+  "actualizado": "28/11/2026 06:28",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -43,7 +43,8 @@
         "marcador": "2–0",
         "estado": "final",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233",
+        "sede": "I.E.S. Julio Verne · Central (Sevilla)"
       },
       {
         "evento": "Las Flores Sevilla Amarillo – CVMF Brenes Azul",
@@ -70,7 +71,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "28/11/2026 06:03",
+    "actualizado": "28/11/2026 06:28",
     "equipos": [
       {
         "categoria": "Sénior",
