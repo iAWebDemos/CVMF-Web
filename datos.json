@@ -1,6 +1,6 @@
 {
-  "version": "9eef59889bd9",
-  "actualizado": "28/11/2026 12:37",
+  "version": "1e33609f9d9b",
+  "actualizado": "28/11/2026 12:47",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
@@ -33,7 +33,8 @@
         "marcador": "2–0",
         "estado": "final",
         "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233"
+        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233",
+        "sede": "I.E.S. Julio Verne · Central (Sevilla)"
       },
       {
         "evento": "CV Alcores – CV Manuel de Falla",
@@ -49,7 +50,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "28/11/2026 12:37",
+    "actualizado": "28/11/2026 12:47",
     "equipos": [
       {
         "categoria": "Sénior",
