@@ -1,21 +1,10 @@
 {
-  "version": "9425d3161007",
-  "actualizado": "28/11/2026 09:32",
+  "version": "2c8c2d6cc70e",
+  "actualizado": "28/11/2026 09:52",
   "live": {
     "canal": "https://www.youtube.com/@cvmf_brenes/live",
     "fav": "https://www.favoley.net/publico/seccion.php?seccion=directos",
     "eventos": [
-      {
-        "evento": "CVMF Brenes Blanco – Oil'24. Descubre Fuentes",
-        "categoria": "Alevín",
-        "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-        "fecha": "29/11/2026 · 09:45",
-        "marcador": "",
-        "estado": "next",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228",
-        "sede": "Pabellón Cubierto Enrique Lora · P2 (La Puebla del Río)"
-      },
       {
         "evento": "CV Utrera – Mgs Seguros CVMF Brenes",
         "categoria": "Alevín",
@@ -28,17 +17,6 @@
         "sede": "Pabellon Placido Fernandez Viagas · P1 (Alcalá de Guadaíra)"
       },
       {
-        "evento": "F. Cajasol Andalucía Azul – CVMF Brenes Azul",
-        "categoria": "Alevín",
-        "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-        "fecha": "29/11/2026 · 13:00",
-        "marcador": "",
-        "estado": "next",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227",
-        "sede": "Pabellón Cubierto Enrique Lora · P3 (La Puebla del Río)"
-      },
-      {
         "evento": "F. Cajasol Andalucía Verde – CV Manuel de Falla",
         "categoria": "Cadete",
         "competicion": "Cadete femenino Sevilla Liga Provincial · Jornada 8",
@@ -47,17 +25,6 @@
         "estado": "next",
         "youtube": "",
         "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1306&vista=calendario&grupo=51&fase=59"
-      },
-      {
-        "evento": "C.D. Salesianos Trinidad – CVMF Brenes Blanco",
-        "categoria": "Alevín",
-        "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 2",
-        "fecha": "15/11/2026 · 10:50",
-        "marcador": "2–0",
-        "estado": "final",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228",
-        "sede": "Pabellon La Estacion · P3 (Fuentes de Andalucía)"
       },
       {
         "evento": "Mgs Seguros CVMF Brenes – Sitting Volley Sevilla",
@@ -69,17 +36,6 @@
         "youtube": "",
         "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1248&vista=calendario&grupo=156&fase=233",
         "sede": "I.E.S. Julio Verne · Central (Sevilla)"
-      },
-      {
-        "evento": "CVMF Brenes Azul – Encinas Volley C.D.",
-        "categoria": "Alevín",
-        "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 2",
-        "fecha": "15/11/2026 · 13:00",
-        "marcador": "1–2",
-        "estado": "final",
-        "youtube": "",
-        "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227",
-        "sede": "Pabellon La Estacion · P3 (Fuentes de Andalucía)"
       },
       {
         "evento": "CD Arboleda Celeste – CV Manuel de Falla",
@@ -95,7 +51,7 @@
     ]
   },
   "equipos": {
-    "actualizado": "28/11/2026 09:32",
+    "actualizado": "28/11/2026 09:52",
     "equipos": [
       {
         "categoria": "Sénior",
@@ -454,243 +410,13 @@
       {
         "categoria": "Alevín",
         "genero": "Femenino",
-        "variante": "Femenino azul",
-        "nombre": "CVMF Brenes Azul",
-        "competicion": "Alevin femenino Sevilla Liga Provincial",
-        "clasificacion": [
-          {
-            "pos": "1",
-            "equipo": "Cva M",
-            "pts": "4",
-            "pj": "2",
-            "pg": "2",
-            "pp": "0",
-            "sf": "4",
-            "sc": "0",
-            "club": false
-          },
-          {
-            "pos": "2",
-            "equipo": "Encinas Volley C.D.",
-            "pts": "4",
-            "pj": "2",
-            "pg": "2",
-            "pp": "0",
-            "sf": "4",
-            "sc": "1",
-            "club": false
-          },
-          {
-            "pos": "3",
-            "equipo": "CV Utrera",
-            "pts": "3",
-            "pj": "2",
-            "pg": "1",
-            "pp": "1",
-            "sf": "2",
-            "sc": "2",
-            "club": false
-          },
-          {
-            "pos": "4",
-            "equipo": "Kairós Turquesa",
-            "pts": "3",
-            "pj": "2",
-            "pg": "1",
-            "pp": "1",
-            "sf": "2",
-            "sc": "3",
-            "club": false
-          },
-          {
-            "pos": "5",
-            "equipo": "CVMF Brenes Azul",
-            "pts": "2",
-            "pj": "2",
-            "pg": "0",
-            "pp": "2",
-            "sf": "2",
-            "sc": "4",
-            "club": true
-          },
-          {
-            "pos": "6",
-            "equipo": "F. Cajasol Andalucía Azul",
-            "pts": "2",
-            "pj": "2",
-            "pg": "0",
-            "pp": "2",
-            "sf": "0",
-            "sc": "4",
-            "club": false
-          }
-        ],
-        "proximo": {
-          "evento": "CV Utrera – CVMF Brenes Azul",
-          "categoria": "Alevín",
-          "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 4",
-          "fecha": "29/11/2026 · 11:55",
-          "marcador": "",
-          "estado": "next",
-          "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227"
-        },
-        "proximos": [
-          {
-            "evento": "CV Utrera – CVMF Brenes Azul",
-            "categoria": "Alevín",
-            "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 4",
-            "fecha": "29/11/2026 · 11:55",
-            "marcador": "",
-            "estado": "next",
-            "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227"
-          },
-          {
-            "evento": "F. Cajasol Andalucía Azul – CVMF Brenes Azul",
-            "categoria": "Alevín",
-            "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-            "fecha": "29/11/2026 · 13:00",
-            "marcador": "",
-            "estado": "next",
-            "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=227",
-            "sede": "Pabellón Cubierto Enrique Lora · P3 (La Puebla del Río)"
-          }
-        ],
-        "resultados": [
-          {
-            "evento": "CVMF Brenes Azul – Encinas Volley C.D.",
-            "fecha": "15/11/2026 · 13:00",
-            "marcador": "1–2"
-          },
-          {
-            "evento": "Kairós Turquesa – CVMF Brenes Azul",
-            "fecha": "15/11/2026 · 11:55",
-            "marcador": "2–1"
-          }
-        ]
-      },
-      {
-        "categoria": "Alevín",
-        "genero": "Femenino",
         "variante": "Femenino blanco",
-        "nombre": "CVMF Brenes Blanco",
-        "competicion": "Alevin femenino Sevilla Liga Provincial",
-        "clasificacion": [
-          {
-            "pos": "1",
-            "equipo": "C.D. Salesianos Trinidad",
-            "pts": "4",
-            "pj": "2",
-            "pg": "2",
-            "pp": "0",
-            "sf": "4",
-            "sc": "0",
-            "club": false
-          },
-          {
-            "pos": "2",
-            "equipo": "CV Rochelambert",
-            "pts": "4",
-            "pj": "2",
-            "pg": "2",
-            "pp": "0",
-            "sf": "4",
-            "sc": "0",
-            "club": false
-          },
-          {
-            "pos": "3",
-            "equipo": "CD Arboleda Celeste",
-            "pts": "3",
-            "pj": "2",
-            "pg": "1",
-            "pp": "1",
-            "sf": "2",
-            "sc": "2",
-            "club": false
-          },
-          {
-            "pos": "4",
-            "equipo": "CV Puebla del Rio",
-            "pts": "3",
-            "pj": "2",
-            "pg": "1",
-            "pp": "1",
-            "sf": "2",
-            "sc": "2",
-            "club": false
-          },
-          {
-            "pos": "5",
-            "equipo": "Oil'24. Descubre Fuentes",
-            "pts": "2",
-            "pj": "2",
-            "pg": "0",
-            "pp": "2",
-            "sf": "0",
-            "sc": "4",
-            "club": false
-          },
-          {
-            "pos": "6",
-            "equipo": "CVMF Brenes Blanco",
-            "pts": "2",
-            "pj": "2",
-            "pg": "0",
-            "pp": "2",
-            "sf": "0",
-            "sc": "4",
-            "club": true
-          }
-        ],
-        "proximo": {
-          "evento": "CVMF Brenes Blanco – Oil'24. Descubre Fuentes",
-          "categoria": "Alevín",
-          "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-          "fecha": "29/11/2026 · 09:45",
-          "marcador": "",
-          "estado": "next",
-          "youtube": "",
-          "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228",
-          "sede": "Pabellón Cubierto Enrique Lora · P2 (La Puebla del Río)"
-        },
-        "proximos": [
-          {
-            "evento": "CVMF Brenes Blanco – Oil'24. Descubre Fuentes",
-            "categoria": "Alevín",
-            "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 3",
-            "fecha": "29/11/2026 · 09:45",
-            "marcador": "",
-            "estado": "next",
-            "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228",
-            "sede": "Pabellón Cubierto Enrique Lora · P2 (La Puebla del Río)"
-          },
-          {
-            "evento": "CVMF Brenes Blanco – CV Puebla del Rio",
-            "categoria": "Alevín",
-            "competicion": "Alevin femenino Sevilla Liga Provincial · Jornada 4",
-            "fecha": "29/11/2026 · 10:50",
-            "marcador": "",
-            "estado": "next",
-            "youtube": "",
-            "fav": "https://www.favoley.net/publico/seccion.php?seccion=competicion&id=1260&vista=calendario&grupo=153&fase=228"
-          }
-        ],
-        "resultados": [
-          {
-            "evento": "C.D. Salesianos Trinidad – CVMF Brenes Blanco",
-            "fecha": "15/11/2026 · 10:50",
-            "marcador": "2–0"
-          },
-          {
-            "evento": "CVMF Brenes Blanco – CD Arboleda Celeste",
-            "fecha": "15/11/2026 · 09:45",
-            "marcador": "0–2"
-          }
-        ]
+        "nombre": "",
+        "competicion": "",
+        "clasificacion": [],
+        "proximo": null,
+        "resultados": [],
+        "sinCompeticion": "Este grupo figura en el horario del club, pero todavía no aparece en la FAV esta temporada."
       },
       {
         "categoria": "Escuela deportiva",
